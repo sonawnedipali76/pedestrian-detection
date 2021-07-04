@@ -18,7 +18,7 @@ def SendMail():
 
     sender_address = 'detectpedestrian926@gmail.com'
     sender_pass = 'Detectaion@123'
-    receiver_address = 'sonawnedipali76@gmail.com'
+    receiver_address = 'pedidetect@gmail.com'
     #Setup the MIME
     message = MIMEMultipart()
     message['From'] = sender_address
